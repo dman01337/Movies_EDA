@@ -123,7 +123,6 @@ Dale Deford: daledeford@gmail.com
 ## Repository Structure
 
 ```
-├── data
 ├── images
 ├── README.md
 ├── Movies_EDA_Presentation.pdf
