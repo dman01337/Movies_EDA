@@ -49,7 +49,7 @@ However looking at the budget and net-profit trend since 2018 there is potential
 Here we see that Universal Studio and Lionsgate production companies are the best choices to work with based on ppratio and net-profit:
 ![studios_ppratio_netprofit](./Images/studios_ppratio_netprofit.png)
 
-The top 15 Directors, Writers and Actors with the highest mean ppratio are compared to the rest of the field and presented in the graphs below:
+The top 15 Directors with the highest mean ppratio are compared to the rest of the field and presented in the graphs below. Similar analyses were performed for Writers and Actors, and can be viewed in the linked notebook or presentation; the results are provided in the conclusions below.
 
 ---
 
@@ -60,22 +60,6 @@ The top 15 Directors, Writers and Actors with the highest mean ppratio are compa
 <img src="./Images/stripplot_directors.png" alt="description" width="75%" height="auto">
 
 ---
-
-<img src="./Images/boxplot_writers.png" alt="description" width="75%" height="auto">
-
----
-
-<img src="./Images/stripplot_writers.png" alt="description" width="75%" height="auto">
-
----
-
-<img src="./Images/boxplot_actors.png" alt="description" width="75%" height="auto">
-
----
-
-<img src="./Images/stripplot_actors.png" alt="description" width="75%" height="auto">
-
-
 
 # Conclusions
 
