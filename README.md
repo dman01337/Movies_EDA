@@ -1,5 +1,5 @@
 # Profitable Film Featers Analysis
-![title](./Images/title_pic.png)
+<img src="./Images/title_pic.png" alt="description" width="75%" height="auto">
 
 
 ### Analysis Overview
@@ -70,20 +70,17 @@ Based on the analysis, a movie project with the highest potential for increased 
 - Directors, Writers, Actors:
     - Preference placed on historically high ppratio performers:
         - Directors:
-            - James Wan, Christopher Landon, David O. Russell, Tim Story,
-            - Steven Soderberg, Will Gluck, Paul Feig, Nicholas Stoller,
-            - Jon M. Chu, John Madden, Tyler Perry, Jonathan Levine,
-            - Clint Eastwood, Francis Lawrence, Jaume Collet-Serra
+            - James Wan, Christopher Landon, David O. Russell, Tim Story, Steven Soderberg, 
+            - Will Gluck, Paul Feig, Nicholas Stoller, Jon M. Chu, 
+            - John Madden, Tyler Perry, Jonathan Levine, Clint Eastwood, Francis Lawrence, Jaume Collet-Serra
         - Writers:
-            - Oren Peli, Christopher Landon, James DeMonaco, Damien Chazelle,
-            - Eli Roth,Scott Derrickson,Michael H. Weber,
-            - Scott Neustadter,Ken Daurio,Cinco Paul,Stephen King,
+            - Oren Peli, Christopher Landon, James DeMonaco, Damien Chazelle, Eli Roth,
+            - Scott Derrickson,Michael H. Weber, Scott Neustadter,Ken Daurio,Cinco Paul,Stephen King,
             - Jonah Hill, Suzanne Collins, Stephen Susco, Ryan Engle
         - Actors:
-            - Octavia Spencer, Catherine Keener, Rose Byrne, Ethan Hawke,
-            - Mahershala Ali, Michael B. Jordan, Patrick Wilson, Naomie Harris,
-            - Gabrielle Union, Olivia Munn, Lena Headey, Frank Grillo,
-            - Mary Elizabeth Winstead, John Corbett, Michael Ealy
+            - Octavia Spencer, Catherine Keener, Rose Byrne, Ethan Hawke, Mahershala Ali, 
+            - Michael B. Jordan, Patrick Wilson, Naomie Harris, Gabrielle Union, Olivia Munn, 
+            - Lena Headey, Frank Grillo, Mary Elizabeth Winstead, John Corbett, Michael Ealy
 ​
 
 # Next Steps
