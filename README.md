@@ -1,5 +1,5 @@
 # Profitable Film Featers Analysis
-<img src="./Images/title_pic.png" alt="description" width="75%" height="auto">
+<img src="./Images/title_pic.png" alt="description" width="90%" height="auto">
 
 
 ### Analysis Overview
