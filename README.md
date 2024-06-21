@@ -36,20 +36,18 @@ This project uses descriptive analysis and hypothesis testing to identify and ev
 
 
 ### Results
+Some key results of the analyses are presented here.  For full analyses see links to the notebook and presentation in the 'More Info' section below.
 
 Here are the top 6 genres average ppratio, showing Horror as the top genre
 ![top_genres](./Images/top_genres.png)
 
-This graph shows the ppratio by genre compared to the net-profit, indicating Comedy as a strong option:
-![ppratio_netprofit](./Images/ppratio_netprofit.png)
-
-However looking at the budget and net-profit trend since 2018 there is potential risk in Comedy genre:
+The budget and net-profit trend since 2018 indicates there is potential risk in Comedy genre:
 ![comedy_trend](./Images/comedy_trend.png)
 
 Here we see that Universal Studio and Lionsgate production companies are the best choices to work with based on ppratio and net-profit:
 ![studios_ppratio_netprofit](./Images/studios_ppratio_netprofit.png)
 
-The top 15 Directors with the highest mean ppratio are compared to the rest of the field and presented in the graphs below. Similar analyses were performed for Writers and Actors, and can be viewed in the linked notebook or presentation; the results are provided in the conclusions below.
+The top 15 Directors with the highest mean ppratio are compared to the rest of the field and presented in the graphs below. Similar analyses were performed for Writers and Actors, and are provided in the conclusions below.
 
 ---
 
